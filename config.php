@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'http://libapp.tsu.ac.th/web/',
+        'url'		=> 'https://www.np.ac.th/np/newdemo/web/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
