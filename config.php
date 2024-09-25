@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://agri.kps.ku.ac.th/rasc/web/',
+        'url'		=> 'https://www.np.ac.th/nbac/nbacqr/web/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
