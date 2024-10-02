@@ -1,6 +1,6 @@
 <?php
 $config = array(
-        'url'		=> 'https://www.np.ac.th/nbac/nbacqr/web/',
+        'url'		=> 'https://smart.hss.moph.go.th/phdb/web/',
         'parameter' => 'go',
         'template'  => 'temp.html',
         'keywords'  => 'bb.txt',
